@@ -29,4 +29,4 @@ https://ajxster.shinyapps.io/bmip/
 
 
 The slidify link is as follows
-https://github.com/ajxster/DevDataProducts/index.html
+http://ajxster.github.io/DDD/index.html#1
