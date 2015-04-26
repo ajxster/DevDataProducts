@@ -11,7 +11,7 @@ Following Files Submitted for Assignment in Github:
 
 Guide to run the project
 
-1. Clone https://github.com/lionWar/DevelopingDataProducts.git to your directory.
+1. Clone https://github.com/ajxster/DevDataProducts.git to your directory.
 
 2. Open your RStudio.
 
